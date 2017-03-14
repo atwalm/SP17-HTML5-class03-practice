@@ -1,0 +1,39 @@
+
+/*16px==1rem*/
+html{
+  font-size:16px;
+}
+.amendment-title{
+  color:green;
+  text-align:center;
+  font-size:2rem;
+}
+.amendment-title:hover{
+  color:rgba(92,213,235,0.4);
+
+}
+.amendment-title::first-letter{
+  font-size:5rem;
+
+}
+.amendment-body
+{
+  text-align:center;
+}
+.document-history{
+background-color: yellow;
+}
+.document-history p{
+  width: 50%;
+
+}
+#bill-of-right
+{
+  font-style:italic;
+}
+img{
+  width: 25%;
+}
+/*[class]{
+  color:orange;
+}*/
